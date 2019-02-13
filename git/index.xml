@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>asfahstudio</title>
-    <link>http://example.org/git/</link>
+    <link>http://asfahstudio.github.io/git/</link>
     <description>Recent content on asfahstudio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Feb 2019 14:44:31 +0700</lastBuildDate>
     
-	<atom:link href="http://example.org/git/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://asfahstudio.github.io/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Apa Itu GIT?</title>
-      <link>http://example.org/git/apa-itu-git/</link>
+      <link>http://asfahstudio.github.io/git/apa-itu-git/</link>
       <pubDate>Wed, 13 Feb 2019 19:12:18 +0700</pubDate>
       
-      <guid>http://example.org/git/apa-itu-git/</guid>
+      <guid>http://asfahstudio.github.io/git/apa-itu-git/</guid>
       <description>Apa itu Git dan Kenapa Penting bagi Programmer?
 Git Belajar Git untuk Pemula
 Git adalah salah satu tool yang sering digunakan dalam proyek pengembangan software.

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>asfahstudio</title>
-    <link>http://example.org/</link>
+    <link>http://asfahstudio.github.io/</link>
     <description>Recent content on asfahstudio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Feb 2019 14:44:31 +0700</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://asfahstudio.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Apa Itu GIT?</title>
-      <link>http://example.org/git/apa-itu-git/</link>
+      <link>http://asfahstudio.github.io/git/apa-itu-git/</link>
       <pubDate>Wed, 13 Feb 2019 19:12:18 +0700</pubDate>
       
-      <guid>http://example.org/git/apa-itu-git/</guid>
+      <guid>http://asfahstudio.github.io/git/apa-itu-git/</guid>
       <description>Apa itu Git dan Kenapa Penting bagi Programmer?
 Git Belajar Git untuk Pemula
 Git adalah salah satu tool yang sering digunakan dalam proyek pengembangan software.
@@ -28,20 +28,20 @@ Mengenal Git Git adalah salah satu sistem pengontrol versi (Version Control Syst
     
     <item>
       <title>Command Dasar Linux Part2</title>
-      <link>http://example.org/linux/command-dasar-linux-part2/</link>
+      <link>http://asfahstudio.github.io/linux/command-dasar-linux-part2/</link>
       <pubDate>Wed, 13 Feb 2019 17:58:59 +0700</pubDate>
       
-      <guid>http://example.org/linux/command-dasar-linux-part2/</guid>
+      <guid>http://asfahstudio.github.io/linux/command-dasar-linux-part2/</guid>
       <description>touch touch digunakan untuk membuat file baru. Ini bisa berupa apa saja, mulai dari txt file kosong atau file zip kosong. Misalnya Anda ingin membuat file text baru, Anda tinggal masukkan “touch baru.txt”.
 man &amp;amp; –help Kedua perintah dasar Linux ini digunakan untuk tahu lebih banyak tentang command-command Linux dan bagaimana cara menggunakannya. Command man adalah halaman manual command. Misalnya, jika Anda memasukkan “man rm” maka mereka akan memberi Anda halaman manual command rm.</description>
     </item>
     
     <item>
       <title>Command Dasar Linux</title>
-      <link>http://example.org/linux/command-dasar-linux/</link>
+      <link>http://asfahstudio.github.io/linux/command-dasar-linux/</link>
       <pubDate>Wed, 13 Feb 2019 17:56:47 +0700</pubDate>
       
-      <guid>http://example.org/linux/command-dasar-linux/</guid>
+      <guid>http://asfahstudio.github.io/linux/command-dasar-linux/</guid>
       <description>Perintah Dasar Linux Berikut ini adalah beberapa perintah dasar Linux yang banyak digunakan:
 pwd Ketika Anda pertama kali membuka terminal, Anda akan masuk ke home directory user Anda. Untuk tahu directory mana yang sedang Anda buka, Anda bisa menggunakan command pwd ini. Dengan command ini, mereka akan memberitahu path-nya dimulai dari root. Root adalah awalan dari sistem file Linux. User directory biasa memiliki format seperti “/home/username”.
 Is Gunakan command “Is” untuk mengetahui file apa saja yang ada pada directory yang sedang Anda buka.</description>
@@ -49,10 +49,10 @@ Is Gunakan command “Is” untuk mengetahui file apa saja yang ada pada directo
     
     <item>
       <title>Cara Instal Linux Ubuntu 16</title>
-      <link>http://example.org/linux/cara-instal-linux-ubuntu-16.04-lts/</link>
+      <link>http://asfahstudio.github.io/linux/cara-instal-linux-ubuntu-16.04-lts/</link>
       <pubDate>Wed, 13 Feb 2019 17:56:22 +0700</pubDate>
       
-      <guid>http://example.org/linux/cara-instal-linux-ubuntu-16.04-lts/</guid>
+      <guid>http://asfahstudio.github.io/linux/cara-instal-linux-ubuntu-16.04-lts/</guid>
       <description>Booting Menggunakan DVD/USB Ubuntu Anda dapat mendownload Ubuntu di : https://www.ubuntu.com/download/desktop
 Untuk membuat Bootable USB/DVD berikut panduannya : Cara Membuat Bootable USB/DVD
 Setelah mempunyai Bootable USB/DVD berisikan Ubuntu, restart PC anda, jangan lupa untuk setting bios agar booting menggunakan USB/DVD terlebih dahulu sebelum masuk ke HardDisk.
@@ -63,10 +63,10 @@ Welcome Screen Anda akan disambut dengan welcome screen berisi pilihan bahasa, d
     
     <item>
       <title>Apa Itu Linux?</title>
-      <link>http://example.org/linux/apa-itu-linux/</link>
+      <link>http://asfahstudio.github.io/linux/apa-itu-linux/</link>
       <pubDate>Wed, 13 Feb 2019 17:55:31 +0700</pubDate>
       
-      <guid>http://example.org/linux/apa-itu-linux/</guid>
+      <guid>http://asfahstudio.github.io/linux/apa-itu-linux/</guid>
       <description>Linux (diucapkan ˈlɪnəks atau /ˈlɪnʊks/)[1] adalah nama yang diberikan kepada sistem operasi komputer bertipe Unix. Linux merupakan salah satu contoh hasil pengembangan perangkat lunak bebas dan sumber terbuka utama. Seperti perangkat lunak bebas dan sumber terbuka lainnya pada umumnya, kode sumber Linux dapat dimodifikasi, digunakan dan didistribusikan kembali secara bebas oleh siapa saja.[2]
 Nama &amp;ldquo;Linux&amp;rdquo; berasal dari nama pembuatnya, yang diperkenalkan tahun 1991 oleh Linus Torvalds. Sistemnya, peralatan sistem dan pustakanya umumnya berasal dari sistem operasi GNU, yang diumumkan tahun 1983 oleh Richard Stallman.</description>
     </item>
