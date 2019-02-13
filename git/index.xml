@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>asfahstudio</title>
+    <link>http://example.org/git/</link>
+    <description>Recent content on asfahstudio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Feb 2019 14:44:31 +0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apa Itu GIT?</title>
+      <link>http://example.org/git/apa-itu-git/</link>
+      <pubDate>Wed, 13 Feb 2019 19:12:18 +0700</pubDate>
+      
+      <guid>http://example.org/git/apa-itu-git/</guid>
+      <description>Apa itu Git dan Kenapa Penting bagi Programmer?
+Git Belajar Git untuk Pemula
+Git adalah salah satu tool yang sering digunakan dalam proyek pengembangan software.
+Git bahkan menjadi tool yang wajib dipahami oleh programmer, karena banyak digunakan di mana-mana.
+Pada kesempatan ini kita akan belajar Git dari dasar.
+Artikel ini hanya akan membahas pengenalan Git saja. Untuk mempelajari Git lebih lanjut, saya sudah menyediakan link di bagian akhir.
+Mengenal Git Git adalah salah satu sistem pengontrol versi (Version Control System) pada proyek perangkat lunak yang diciptakan oleh Linus Torvalds.</description>
+    </item>
+    
+  </channel>
+</rss>
