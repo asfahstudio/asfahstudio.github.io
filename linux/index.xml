@@ -1,59 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>asfahstudio</title>
+    <title>Linux on asfahstudio</title>
     <link>http://asfahstudio.github.io/linux/</link>
-    <description>Recent content on asfahstudio</description>
+    <description>Recent content in Linux on asfahstudio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Feb 2019 14:44:31 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 15 Feb 2019 13:26:07 +0700</lastBuildDate>
     
 	<atom:link href="http://asfahstudio.github.io/linux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Command Dasar Linux Part2</title>
-      <link>http://asfahstudio.github.io/linux/command-dasar-linux-part2/</link>
-      <pubDate>Wed, 13 Feb 2019 17:58:59 +0700</pubDate>
+      <title>Cara Install Ubuntu 16</title>
+      <link>http://asfahstudio.github.io/linux/cara-install-ubuntu-16.04-lts-/</link>
+      <pubDate>Fri, 15 Feb 2019 13:28:51 +0700</pubDate>
       
-      <guid>http://asfahstudio.github.io/linux/command-dasar-linux-part2/</guid>
-      <description>touch touch digunakan untuk membuat file baru. Ini bisa berupa apa saja, mulai dari txt file kosong atau file zip kosong. Misalnya Anda ingin membuat file text baru, Anda tinggal masukkan “touch baru.txt”.
-man &amp;amp; –help Kedua perintah dasar Linux ini digunakan untuk tahu lebih banyak tentang command-command Linux dan bagaimana cara menggunakannya. Command man adalah halaman manual command. Misalnya, jika Anda memasukkan “man rm” maka mereka akan memberi Anda halaman manual command rm.</description>
+      <guid>http://asfahstudio.github.io/linux/cara-install-ubuntu-16.04-lts-/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Command Dasar Linux</title>
-      <link>http://asfahstudio.github.io/linux/command-dasar-linux/</link>
-      <pubDate>Wed, 13 Feb 2019 17:56:47 +0700</pubDate>
+      <title>Apa Itu Linux ?</title>
+      <link>http://asfahstudio.github.io/linux/apa-itu-linux-/</link>
+      <pubDate>Fri, 15 Feb 2019 13:25:13 +0700</pubDate>
       
-      <guid>http://asfahstudio.github.io/linux/command-dasar-linux/</guid>
-      <description>Perintah Dasar Linux Berikut ini adalah beberapa perintah dasar Linux yang banyak digunakan:
-pwd Ketika Anda pertama kali membuka terminal, Anda akan masuk ke home directory user Anda. Untuk tahu directory mana yang sedang Anda buka, Anda bisa menggunakan command pwd ini. Dengan command ini, mereka akan memberitahu path-nya dimulai dari root. Root adalah awalan dari sistem file Linux. User directory biasa memiliki format seperti “/home/username”.
-Is Gunakan command “Is” untuk mengetahui file apa saja yang ada pada directory yang sedang Anda buka.</description>
-    </item>
-    
-    <item>
-      <title>Cara Instal Linux Ubuntu 16</title>
-      <link>http://asfahstudio.github.io/linux/cara-instal-linux-ubuntu-16.04-lts/</link>
-      <pubDate>Wed, 13 Feb 2019 17:56:22 +0700</pubDate>
-      
-      <guid>http://asfahstudio.github.io/linux/cara-instal-linux-ubuntu-16.04-lts/</guid>
-      <description>Booting Menggunakan DVD/USB Ubuntu Anda dapat mendownload Ubuntu di : https://www.ubuntu.com/download/desktop
-Untuk membuat Bootable USB/DVD berikut panduannya : Cara Membuat Bootable USB/DVD
-Setelah mempunyai Bootable USB/DVD berisikan Ubuntu, restart PC anda, jangan lupa untuk setting bios agar booting menggunakan USB/DVD terlebih dahulu sebelum masuk ke HardDisk.
-Berikut tampilan booting awal Ubuntu:
-ubuntu_014
-Welcome Screen Anda akan disambut dengan welcome screen berisi pilihan bahasa, dan pilihan menu untuk mencoba Ubuntu menggunakan Live CD, atau menginstallnya langsung.</description>
-    </item>
-    
-    <item>
-      <title>Apa Itu Linux?</title>
-      <link>http://asfahstudio.github.io/linux/apa-itu-linux/</link>
-      <pubDate>Wed, 13 Feb 2019 17:55:31 +0700</pubDate>
-      
-      <guid>http://asfahstudio.github.io/linux/apa-itu-linux/</guid>
-      <description>Linux (diucapkan ˈlɪnəks atau /ˈlɪnʊks/)[1] adalah nama yang diberikan kepada sistem operasi komputer bertipe Unix. Linux merupakan salah satu contoh hasil pengembangan perangkat lunak bebas dan sumber terbuka utama. Seperti perangkat lunak bebas dan sumber terbuka lainnya pada umumnya, kode sumber Linux dapat dimodifikasi, digunakan dan didistribusikan kembali secara bebas oleh siapa saja.[2]
-Nama &amp;ldquo;Linux&amp;rdquo; berasal dari nama pembuatnya, yang diperkenalkan tahun 1991 oleh Linus Torvalds. Sistemnya, peralatan sistem dan pustakanya umumnya berasal dari sistem operasi GNU, yang diumumkan tahun 1983 oleh Richard Stallman.</description>
+      <guid>http://asfahstudio.github.io/linux/apa-itu-linux-/</guid>
+      <description>Sebelum kita membahas tentang apa itu linux, alangkah baiknya kita mengetahui hal-hal berikut ini:
+ apa itu sistem operasi ? fungsi sistem operasi ?  Sistem Operasi atau Operation System (OS) ? Sebuah perangkat lunak yang berfungsi sebagai sistem dasar pada sebuah perangkat.
+Fungsi OS ?  Manajemen kinerja perangkat Wadah dari aplikasi Optimalisasi kerja perangkat Mengontrol kinerja perangkat  Linux ? Software sistem operasi yang sifatnya open source dan gratis untuk di dapatkan maupun di sebarluaskan dengan lisensi GNU.</description>
     </item>
     
   </channel>
