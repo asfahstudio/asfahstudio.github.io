@@ -17,7 +17,16 @@
       <pubDate>Fri, 15 Feb 2019 13:34:21 +0700</pubDate>
       
       <guid>http://asfahstudio.github.io/ssg/cara-install-hugo-/</guid>
-      <description></description>
+      <description>basa-basi&amp;hellip;&amp;hellip;&amp;hellip;
+sebenarnya pada artikel ini tidak hanya membahas tentang instalasi hugo, lebih tepatnya akan membahas langkah-langkah membuat blog dengan hugo tanpa biaya alias freeeee&amp;hellip;&amp;hellip;. oke langsung saja simak tulisan yang ada di bawah.
+.
+.
+.
+core in the core&amp;hellip;&amp;hellip;&amp;hellip;
+Kenapa Hugo ? Menurut klaim mereka (developer Hugo), Hugo lebih cepat daripada SSG yang lain seperti Jekyll, Middleman, Octopress, dll.
+Selain cepat, Hugo juga mudah dipelajari.
+.
+Langkah-langkah membuat blog dengan Hugo ?</description>
     </item>
     
     <item>
@@ -26,7 +35,8 @@
       <pubDate>Fri, 15 Feb 2019 13:32:17 +0700</pubDate>
       
       <guid>http://asfahstudio.github.io/ssg/apa-itu-ssg-/</guid>
-      <description></description>
+      <description>core in the core&amp;hellip;&amp;hellip;&amp;hellip;
+Apa Itu Static Site Generator (SSG) ? Static site generator (selanjutnya disingkat SSG) adalah sebuah software yang fungsinya men-generate halaman-halaman website statis. File yang dihasilkan berupa HTML, CSS dan Javascript. Susunan file dan direktori yang dihasilkan oleh SSG sudah rapi teratur sesuai dengan aturan navigasi yang telah disusun oleh usernya. SSG ini ada banyak, beberapa diantaranya: Jekyll, Hugo, Hexo, dll. Saya sendiri memutuskan untuk memakai SSG Hugo.</description>
     </item>
     
   </channel>
